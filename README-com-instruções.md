@@ -5,7 +5,7 @@ Site PWA pronto para GitHub Pages com ícone de instalação (seta para baixo) n
 ## Arquivos PWA gerados:
 - manifest.json
 - sw.js (service worker)
-- icon-32.png, icon-72.png, icon-96.png, icon-128.png, icon-144.png, icon-152.png, icon-192.png, icon-384.png, icon-512.png
+- icon-32.png, icon-192.png, icon-512.png
 - .nojekyll
 
 ## Como hospedar no GitHub Pages:
